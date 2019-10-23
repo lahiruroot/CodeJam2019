@@ -13,7 +13,7 @@ while int(TimesRAN) < int(InputBase) :
     #print(MA)
     Fours=MA.count(4)
     while Fours > 0 :
-        T1=""
+        T1="Insert:"
         itm=0
         for i in MA: 
             ZZZS=MA[itm]
@@ -30,7 +30,7 @@ while int(TimesRAN) < int(InputBase) :
         Fours=MA.count(4)
         #print(ZZZ)
         itm2=0
-        T2=""
+        T2="Insert:"
         for i in MA:
             ZZZS=MA[itm2]
             #print(ZZZS)
